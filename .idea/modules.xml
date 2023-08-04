@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4.15.23.MunchiesAgain.iml" filepath="$PROJECT_DIR$/.idea/4.15.23.MunchiesAgain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.munchies.house/com.munchies.house/com.munchies.house.iml" filepath="$PROJECT_DIR$/com.munchies.house/com.munchies.house/com.munchies.house.iml" />
+    </modules>
+  </component>
+</project>
